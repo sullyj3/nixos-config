@@ -1,3 +1,4 @@
 - set up packer bootstrap for neovim
 - convert to flake
 - add home-manager to nixos config
+- integrate gandi VPS config
